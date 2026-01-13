@@ -1,5 +1,7 @@
 # Python Docker Application - Project Guide
 
+> **Note:** This project is for learning purposes only. This was part of my learning journey in understanding containerization and Docker concepts.
+
 This is a **multi-container Python application** using Docker and Docker Compose that:
 - **Container 1**: Generates random numbers using **NumPy** every 5 seconds
 - **Container 2**: Processes data using **Pandas**
